@@ -1,0 +1,59 @@
+{
+  "pack_name": "Hombrosafio 4",
+  "pack_version": "0.14.0",
+  "game_version": "26.3",
+  "loader_version": "0.19.5",
+  "server_ip": "158.23.58.93:25565",
+  "java_version": "25",
+  "mods": [
+    {
+      "name": "CustomPlayerModels-Fabric-26.3-0.6.27e.jar",
+      "sha1": "6c14dd4e5ac0593c7bf3e405a70cfa50c4c514c7",
+      "size": 2840653,
+      "url": "https://raw.githubusercontent.com/ramirooppp/hombrosafio/main/mods/CustomPlayerModels-Fabric-26.3-0.6.27e.jar",
+      "required": true
+    },
+    {
+      "name": "fabric-api-0.161.0+26.3.jar",
+      "sha1": "53f9ee02c3702734d90520aa8c9719bf0e1c8d4f",
+      "size": 2620967,
+      "url": "https://raw.githubusercontent.com/ramirooppp/hombrosafio/main/mods/fabric-api-0.161.0+26.3.jar",
+      "required": true
+    },
+    {
+      "name": "ferritecore-9.0.0-fabric.jar",
+      "sha1": "eac76ff0f3753422c61b2c44487d0d195d88d4bc",
+      "size": 72677,
+      "url": "https://raw.githubusercontent.com/ramirooppp/hombrosafio/main/mods/ferritecore-9.0.0-fabric.jar",
+      "required": true
+    },
+    {
+      "name": "geckolib-fabric-26.3-5.5.7.jar",
+      "sha1": "064ad66ea62bcf3fd0e89a719843b1a06c81925c",
+      "size": 1191230,
+      "url": "https://raw.githubusercontent.com/ramirooppp/hombrosafio/main/mods/geckolib-fabric-26.3-5.5.7.jar",
+      "required": true
+    },
+    {
+      "name": "hombrosafio-0.14.0.jar",
+      "sha1": "2fc90dae5af21b12efafbf01968022272f1bc39e",
+      "size": 6581907,
+      "url": "https://raw.githubusercontent.com/ramirooppp/hombrosafio/main/mods/hombrosafio-0.14.0.jar",
+      "required": true
+    },
+    {
+      "name": "lithium-fabric-0.26.2+mc26.3.jar",
+      "sha1": "dd5a4ec2c68d7601d8bce9076f789c55a5f8bef3",
+      "size": 914543,
+      "url": "https://raw.githubusercontent.com/ramirooppp/hombrosafio/main/mods/lithium-fabric-0.26.2+mc26.3.jar",
+      "required": true
+    },
+    {
+      "name": "worldedit-mod-7.4.6-beta-02.jar",
+      "sha1": "7b10411d204e7a26c39af7654ae914ea830cd89b",
+      "size": 5166191,
+      "url": "https://raw.githubusercontent.com/ramirooppp/hombrosafio/main/mods/worldedit-mod-7.4.6-beta-02.jar",
+      "required": true
+    }
+  ]
+}
