@@ -33,7 +33,7 @@ def generate_manifest():
 
     manifest = {
         "pack_name": "Hombrosafio 4",
-        "pack_version": "0.14.0",
+        "pack_version": "0.15.0",
         "game_version": "26.3",
         "loader_version": "0.19.5",
         "server_ip": "158.23.58.93:25565",
