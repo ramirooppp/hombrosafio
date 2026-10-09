@@ -31,9 +31,15 @@ def generate_manifest():
                 "required": True
             })
 
+    pack_version = "0.17.4"
+    for m in mods:
+        if m["name"].startswith("hombrosafio-") and m["name"].endswith(".jar"):
+            pack_version = m["name"][len("hombrosafio-"):-len(".jar")]
+            break
+
     manifest = {
         "pack_name": "Hombrosafio 4",
-        "pack_version": "0.15.0",
+        "pack_version": pack_version,
         "game_version": "26.3",
         "loader_version": "0.19.5",
         "server_ip": "158.23.58.93:25565",
