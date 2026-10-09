@@ -35,10 +35,10 @@
       "required": true
     },
     {
-      "name": "hombrosafio-0.15.0.jar",
-      "sha1": "79976a03dcf4cb3e94f73e1eef4ad9113d99d362",
-      "size": 8952512,
-      "url": "https://raw.githubusercontent.com/ramirooppp/hombrosafio/main/mods/hombrosafio-0.15.0.jar",
+      "name": "hombrosafio-0.16.0.jar",
+      "sha1": "8cb2576747e33dae72cb7837bc217428d8cfa09d",
+      "size": 8956616,
+      "url": "https://raw.githubusercontent.com/ramirooppp/hombrosafio/main/mods/hombrosafio-0.16.0.jar",
       "required": true
     },
     {
