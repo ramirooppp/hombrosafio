@@ -1,9 +1,9 @@
 {
   "pack_name": "Hombrosafio 4",
-  "pack_version": "0.17.4",
+  "pack_version": "0.25.0",
   "game_version": "26.3",
   "loader_version": "0.19.5",
-  "server_ip": "158.23.58.93:25565",
+  "server_ip": "68.155.155.62:25565",
   "java_version": "25",
   "mods": [
     {
@@ -35,10 +35,10 @@
       "required": true
     },
     {
-      "name": "hombrosafio-0.17.4.jar",
-      "sha1": "d985260802e92203d9e46395d98ebc723ed0c78b",
-      "size": 9018616,
-      "url": "https://raw.githubusercontent.com/ramirooppp/hombrosafio/main/mods/hombrosafio-0.17.4.jar",
+      "name": "hombrosafio-0.25.0.jar",
+      "sha1": "b1c08ea0d58a5431c4fd6b28b229b08502161cc5",
+      "size": 13561567,
+      "url": "https://raw.githubusercontent.com/ramirooppp/hombrosafio/main/mods/hombrosafio-0.25.0.jar",
       "required": true
     },
     {
