@@ -42,7 +42,7 @@ def generate_manifest():
         "pack_version": pack_version,
         "game_version": "26.3",
         "loader_version": "0.19.5",
-        "server_ip": "68.155.155.62:25565",
+        "server_ip": "149.202.84.78:25601",
         "java_version": "25",
         "mods": mods
     }
