@@ -49,6 +49,13 @@
       "required": true
     },
     {
+      "name": "voicechat-fabric-2.6.24+26.3.jar",
+      "sha1": "2ac4bb844e3b23b6e0a729edcf521ba1198ec5d2",
+      "size": 5612855,
+      "url": "https://raw.githubusercontent.com/ramirooppp/hombrosafio/main/mods/voicechat-fabric-2.6.24+26.3.jar",
+      "required": true
+    },
+    {
       "name": "worldedit-mod-7.4.6-beta-02.jar",
       "sha1": "7b10411d204e7a26c39af7654ae914ea830cd89b",
       "size": 5166191,
