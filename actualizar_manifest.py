@@ -22,7 +22,7 @@ def generate_manifest():
                 sha1 = hashlib.sha1(fp.read()).hexdigest()
             size = os.path.getsize(path)
             
-            raw_url = f"https://raw.githubusercontent.com/{REPO_OWNER}/{REPO_NAME}/{BRANCH}/mods/{f}"
+            raw_url = f"https://raw.githubusercontent.com/{REPO_OWNER}/{REPO_NAME}/{BRANCH}/mods/{f}?sha1={sha1}"
             mods.append({
                 "name": f,
                 "sha1": sha1,
