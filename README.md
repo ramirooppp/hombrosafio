@@ -2,17 +2,17 @@
 
 ## Descargar el mod manualmente
 
-**Versión actual: 0.32.55**
+**Versión actual: 0.32.59**
 
-### [Descargar ZIP](https://github.com/ramirooppp/hombrosafio/releases/download/mod-v0.32.55/hombrosafio-0.32.55.zip)
+### [Descargar ZIP](https://github.com/ramirooppp/hombrosafio/releases/download/mod-v0.32.59/hombrosafio-0.32.59.zip)
 
-### [Descargar JAR](https://github.com/ramirooppp/hombrosafio/releases/download/mod-v0.32.55/hombrosafio-0.32.55.jar)
+### [Descargar JAR](https://github.com/ramirooppp/hombrosafio/releases/download/mod-v0.32.59/hombrosafio-0.32.59.jar)
 
-[Ver la página de la versión](https://github.com/ramirooppp/hombrosafio/releases/tag/mod-v0.32.55)
+[Ver la página de la versión](https://github.com/ramirooppp/hombrosafio/releases/tag/mod-v0.32.59)
 
 Si la descarga del JAR no empieza o se corta, probá el ZIP.
 
-1. Descomprimí el ZIP y copiá `hombrosafio-0.32.55.jar` a la carpeta `mods` de tu instalación.
+1. Descomprimí el ZIP y copiá `hombrosafio-0.32.59.jar` a la carpeta `mods` de tu instalación.
 2. Retirá el `hombrosafio-0.32.xx.jar` anterior para no tener dos versiones. Conservá los demás mods del pack.
 3. No pongas el ZIP dentro de `mods`: usá el JAR que contiene.
 
@@ -30,4 +30,4 @@ Servidor: **nodousa.xalfax.online:25611**
 
 ## Cambios de esta versión
 
-Cierra el acceso indebido a los comandos administrativos de Hombrosafío y añade un registro de sus usos e intentos, con jugador, fecha y autorización. Conserva las correcciones anteriores de Gleba, el casino y los corazones extra.
+Corrige la aparición natural de mobs en la iluminación permanente de Gleba y permite que el Pulpo con Dientes aparezca dentro del agua. Incluye los nuevos recursos, crafteos, equipamiento y criaturas de Gleba, con modelos y animaciones mejorados, y los cambios de los minijuegos del gulag. Mantiene la corrección de permisos de los comandos administrativos y el registro de sus usos e intentos.
