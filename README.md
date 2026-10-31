@@ -2,17 +2,17 @@
 
 ## Descargar el mod manualmente
 
-**Versión actual: 0.32.83**
+**Versión actual: 0.32.85**
 
-### [Descargar ZIP](https://github.com/ramirooppp/hombrosafio/releases/download/mod-v0.32.83/hombrosafio-0.32.83.zip)
+### [Descargar ZIP](https://github.com/ramirooppp/hombrosafio/releases/download/mod-v0.32.85/hombrosafio-0.32.85.zip)
 
-### [Descargar JAR](https://github.com/ramirooppp/hombrosafio/releases/download/mod-v0.32.83/hombrosafio-0.32.83.jar)
+### [Descargar JAR](https://github.com/ramirooppp/hombrosafio/releases/download/mod-v0.32.85/hombrosafio-0.32.85.jar)
 
-[Ver la página de la versión](https://github.com/ramirooppp/hombrosafio/releases/tag/mod-v0.32.83)
+[Ver la página de la versión](https://github.com/ramirooppp/hombrosafio/releases/tag/mod-v0.32.85)
 
 Si la descarga del JAR no empieza o se corta, probá el ZIP.
 
-1. Descomprimí el ZIP y copiá `hombrosafio-0.32.83.jar` a la carpeta `mods` de tu instalación.
+1. Descomprimí el ZIP y copiá `hombrosafio-0.32.85.jar` a la carpeta `mods` de tu instalación.
 2. Retirá el `hombrosafio-0.32.xx.jar` anterior para no tener dos versiones. Conservá los demás mods del pack.
 3. No pongas el ZIP dentro de `mods`: usá el JAR que contiene.
 
@@ -30,4 +30,4 @@ Servidor: **nodousa.xalfax.online:25611**
 
 ## Cambios de esta versión
 
-Top 5 de bancos personales y safes de equipos en TAB, apilados a la derecha, con skins, colores, fichas y brillo. Comandos OP para devolver o quitar almas y aviso celeste de recuperación. Naves de uso compartido con dueño original y auditoría Ledger. Corazón morado a 19. Limbo en pruebas exclusivo para OP, recetas ocultas y entrada por camas desactivada. Sin prefijo Admin para hombro.
+Optimiza el rendimiento del TAB: fondo y brillo con texturas reutilizadas, brillo de nombres limitado a 20 actualizaciones por segundo. Agrega comandos exclusivos de OP para consultar, establecer, sumar y quitar fichas del banco personal de jugadores conectados o desconectados, con registro y validación de saldos. Mantiene el Limbo en pruebas exclusivo para OP y la entrada por camas desactivada.
