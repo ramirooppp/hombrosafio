@@ -1,6 +1,6 @@
 {
   "pack_name": "Hombrosafio 4",
-  "pack_version": "0.32.85",
+  "pack_version": "0.32.86",
   "game_version": "26.3",
   "loader_version": "0.19.5",
   "server_ip": "nodousa.xalfax.online:25611",
@@ -35,10 +35,10 @@
       "required": true
     },
     {
-      "name": "hombrosafio-0.32.85.jar",
-      "sha1": "da0f5f9ccee9cd2674504828de2a2cbb6b6374b3",
-      "size": 33650084,
-      "url": "https://raw.githubusercontent.com/ramirooppp/hombrosafio/main/mods/hombrosafio-0.32.85.jar?sha1=da0f5f9ccee9cd2674504828de2a2cbb6b6374b3",
+      "name": "hombrosafio-0.32.86.jar",
+      "sha1": "2392e2485354505910d7eb6a6b0cec9d32f948ee",
+      "size": 33651613,
+      "url": "https://raw.githubusercontent.com/ramirooppp/hombrosafio/main/mods/hombrosafio-0.32.86.jar?sha1=2392e2485354505910d7eb6a6b0cec9d32f948ee",
       "required": true
     },
     {
@@ -53,6 +53,13 @@
       "sha1": "7b10411d204e7a26c39af7654ae914ea830cd89b",
       "size": 5166191,
       "url": "https://raw.githubusercontent.com/ramirooppp/hombrosafio/main/mods/worldedit-mod-7.4.6-beta-02.jar?sha1=7b10411d204e7a26c39af7654ae914ea830cd89b",
+      "required": true
+    },
+    {
+      "name": "voicechat-fabric-2.6.27+26.3.jar",
+      "sha1": "23442735927fe3839650196c0656eb82b0322d87",
+      "size": 5611159,
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/x9jLR94Q/voicechat-fabric-2.6.27%2B26.3.jar",
       "required": true
     }
   ]
