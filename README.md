@@ -2,17 +2,17 @@
 
 ## Descargar el mod manualmente
 
-**Versión actual: 0.32.86**
+**Versión actual: 0.32.95**
 
-### [Descargar ZIP](https://github.com/ramirooppp/hombrosafio/releases/download/mod-v0.32.86/hombrosafio-0.32.86.zip)
+### [Descargar ZIP](https://github.com/ramirooppp/hombrosafio/releases/download/mod-v0.32.95/hombrosafio-0.32.95.zip)
 
-### [Descargar JAR](https://github.com/ramirooppp/hombrosafio/releases/download/mod-v0.32.86/hombrosafio-0.32.86.jar)
+### [Descargar JAR](https://github.com/ramirooppp/hombrosafio/releases/download/mod-v0.32.95/hombrosafio-0.32.95.jar)
 
-[Ver la página de la versión](https://github.com/ramirooppp/hombrosafio/releases/tag/mod-v0.32.86)
+[Ver la página de la versión](https://github.com/ramirooppp/hombrosafio/releases/tag/mod-v0.32.95)
 
 Si la descarga del JAR no empieza o se corta, probá el ZIP.
 
-1. Descomprimí el ZIP y copiá `hombrosafio-0.32.86.jar` a la carpeta `mods` de tu instalación.
+1. Descomprimí el ZIP y copiá `hombrosafio-0.32.95.jar` a la carpeta `mods` de tu instalación.
 2. Retirá el `hombrosafio-0.32.xx.jar` anterior para no tener dos versiones. Conservá los demás mods del pack.
 3. No pongas el ZIP dentro de `mods`: usá el JAR que contiene.
 
@@ -30,4 +30,4 @@ Servidor: **nodousa.xalfax.online:25611**
 
 ## Cambios de esta versión
 
-Agrega Simple Voice Chat 2.6.27 para Fabric 26.3, con la correccion oficial del crash de render junto a Custom Player Models y los iconos de voz visibles. El launcher descarga el mod automaticamente. El objeto de la nave muestra al dueño original en la descripcion y conserva esos datos al renombrarlo en un yunque. Mantiene el Limbo reservado para OP.
+Correcciones y mejoras generales. Cierren y vuelvan a abrir el juego desde el launcher para actualizar.
