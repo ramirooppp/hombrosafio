@@ -2,17 +2,17 @@
 
 ## Descargar el mod manualmente
 
-**Versión actual: 0.32.129**
+**Versión actual: 0.32.130**
 
-### [Descargar ZIP](https://github.com/ramirooppp/hombrosafio/releases/download/mod-v0.32.129/hombrosafio-0.32.129.zip)
+### [Descargar ZIP](https://github.com/ramirooppp/hombrosafio/releases/download/mod-v0.32.130/hombrosafio-0.32.130.zip)
 
-### [Descargar JAR](https://github.com/ramirooppp/hombrosafio/releases/download/mod-v0.32.129/hombrosafio-0.32.129.jar)
+### [Descargar JAR](https://github.com/ramirooppp/hombrosafio/releases/download/mod-v0.32.130/hombrosafio-0.32.130.jar)
 
-[Ver la página de la versión](https://github.com/ramirooppp/hombrosafio/releases/tag/mod-v0.32.129)
+[Ver la página de la versión](https://github.com/ramirooppp/hombrosafio/releases/tag/mod-v0.32.130)
 
 Si la descarga del JAR no empieza o se corta, probá el ZIP.
 
-1. Descomprimí el ZIP y copiá `hombrosafio-0.32.129.jar` a la carpeta `mods` de tu instalación.
+1. Descomprimí el ZIP y copiá `hombrosafio-0.32.130.jar` a la carpeta `mods` de tu instalación.
 2. Retirá el `hombrosafio-0.32.xx.jar` anterior para no tener dos versiones. Conservá los demás mods del pack.
 3. No pongas el ZIP dentro de `mods`: usá el JAR que contiene.
 
