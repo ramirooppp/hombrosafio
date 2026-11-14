@@ -1,6 +1,6 @@
 {
   "pack_name": "Hombrosafio 4",
-  "pack_version": "0.32.140",
+  "pack_version": "0.32.141",
   "game_version": "26.3",
   "loader_version": "0.19.5",
   "server_ip": "nodousa.xalfax.online:25611",
@@ -35,10 +35,10 @@
       "required": true
     },
     {
-      "name": "hombrosafio-0.32.140.jar",
-      "sha1": "d8ef281b4692feb20f45cbff8abf99a3348bafd1",
-      "size": 35977192,
-      "url": "https://raw.githubusercontent.com/ramirooppp/hombrosafio/main/mods/hombrosafio-0.32.140.jar?sha1=d8ef281b4692feb20f45cbff8abf99a3348bafd1",
+      "name": "hombrosafio-0.32.141.jar",
+      "sha1": "b81e453d317fcf2dadebb9a3192858a3de20e578",
+      "size": 35987273,
+      "url": "https://raw.githubusercontent.com/ramirooppp/hombrosafio/main/mods/hombrosafio-0.32.141.jar?sha1=b81e453d317fcf2dadebb9a3192858a3de20e578",
       "required": true
     },
     {
